@@ -11,9 +11,11 @@ async function getMediumArticles() {
   <div class="items-container">`
   for (let i = 0; i < 9; i++) {
     html += `<div class="item">
-      <h2>${items[i].title}</h2>
-      <p>${items[i].author}</p>
-      <p>${items[i].description}</p>
+      <h2 class="title">${items[i].title}</h2>
+      <div class="content">
+        <p>${items[i].author}</p>
+        ${items[i].description}
+      </div>
     </div>`
   }
   html += '</div>'

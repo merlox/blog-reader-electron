@@ -20,10 +20,22 @@ body {
   color: white;
   text-align: center;
   font-family: sans-serif;
-  padding: 0 5px;
+}
+.item .title {
+  text-transform: uppercase;
+  font-size: 13pt;
+  background-color: rgb(52, 52, 52);
+  margin: 0;
+  padding: 20px;
+}
+.item .medium-feed-snippet {
+  padding: 10px;
+}
+.items-container {
+  padding-bottom: 100px;
 }
 .item img {
-  width: 200px;
+  width: 100%;
 }
 iframe {
   border: none;
