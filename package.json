@@ -12,8 +12,5 @@
   "devDependencies": {
     "electron": "^7.1.11"
   },
-  "dependencies": {
-    "node-fetch": "^2.6.0",
-    "website-to-json": "^1.0.22"
-  }
+  "dependencies": {}
 }

@@ -4,8 +4,8 @@ Done 1. Create the stylesheet and import it into your index.html
 Done 2. Install fetch to use it with node with `npm i -S node-fetch`
 Done 3. Add the Note: openDevTools() to see the app. All console logs show in the terminal
 Done 4. Get medium data from the web api
-5. Design the html app
-6. Design the css
+Done 5. Design the html app
+Done 6. Design the css
 
 Promote the article on these subreddits:
 https://www.reddit.com/r/startup/
